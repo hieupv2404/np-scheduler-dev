@@ -1,0 +1,6 @@
+dependencies:
+- name: np-scheduler
+  repository: https://hub.saobang.vn/chartrepo/nextpay
+  version: 0.0.3
+digest: sha256:74ac7de909d5e54d13e50949955c3f60376814a3d17520531b51874069e546e6
+generated: "2022-01-12T11:13:03.4656688+07:00"

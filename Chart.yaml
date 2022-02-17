@@ -1,0 +1,14 @@
+apiVersion: v2
+name: np-scheduler
+description: np-scheduler Helm chart application
+
+type: application
+
+version: 0.0.1
+
+appVersion: "1.0.0"
+
+dependencies:
+- name: np-scheduler
+  version: 0.0.3
+  repository: https://hub.saobang.vn/chartrepo/nextpay
